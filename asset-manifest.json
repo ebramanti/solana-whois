@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/solana-whois/static/js/main.298a7041.chunk.js",
+    "main.js.map": "/solana-whois/static/js/main.298a7041.chunk.js.map",
+    "runtime-main.js": "/solana-whois/static/js/runtime-main.c5b7afdf.js",
+    "runtime-main.js.map": "/solana-whois/static/js/runtime-main.c5b7afdf.js.map",
+    "static/js/2.853c3874.chunk.js": "/solana-whois/static/js/2.853c3874.chunk.js",
+    "static/js/2.853c3874.chunk.js.map": "/solana-whois/static/js/2.853c3874.chunk.js.map",
+    "static/js/3.08e6ac4d.chunk.js": "/solana-whois/static/js/3.08e6ac4d.chunk.js",
+    "static/js/3.08e6ac4d.chunk.js.map": "/solana-whois/static/js/3.08e6ac4d.chunk.js.map",
+    "index.html": "/solana-whois/index.html",
+    "static/js/2.853c3874.chunk.js.LICENSE.txt": "/solana-whois/static/js/2.853c3874.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b7afdf.js",
+    "static/js/2.853c3874.chunk.js",
+    "static/js/main.298a7041.chunk.js"
+  ]
+}
