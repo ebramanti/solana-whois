@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Solana WHOIS Lookup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A utility that resolves .sol addresses to their respective Solana address in bulk.
 
 ## Available Scripts
 
